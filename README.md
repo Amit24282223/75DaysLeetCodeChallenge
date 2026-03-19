@@ -12,6 +12,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0841-keys-and-rooms](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0841-keys-and-rooms) |
+| [0994-rotting-oranges](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
 ## Graph Theory
 |  |
 | ------- |
@@ -21,6 +22,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0419-battleships-in-a-board) |
+| [0994-rotting-oranges](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
@@ -30,4 +32,5 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0419-battleships-in-a-board) |
+| [0994-rotting-oranges](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->

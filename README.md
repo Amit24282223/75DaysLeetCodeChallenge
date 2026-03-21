@@ -26,6 +26,7 @@
 | [0419-battleships-in-a-board](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0419-battleships-in-a-board) |
 | [0994-rotting-oranges](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/1020-number-of-enclaves) |
+| [2364-count-number-of-bad-pairs](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/2364-count-number-of-bad-pairs) |
 ## Union-Find
 |  |
 | ------- |
@@ -38,4 +39,16 @@
 | [0419-battleships-in-a-board](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0419-battleships-in-a-board) |
 | [0994-rotting-oranges](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/1020-number-of-enclaves) |
+## Hash Table
+|  |
+| ------- |
+| [2364-count-number-of-bad-pairs](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/2364-count-number-of-bad-pairs) |
+## Math
+|  |
+| ------- |
+| [2364-count-number-of-bad-pairs](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/2364-count-number-of-bad-pairs) |
+## Counting
+|  |
+| ------- |
+| [2364-count-number-of-bad-pairs](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/2364-count-number-of-bad-pairs) |
 <!---LeetCode Topics End-->

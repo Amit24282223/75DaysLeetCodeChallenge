@@ -23,6 +23,7 @@
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0039-combination-sum) |
 | [0200-number-of-islands](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0419-battleships-in-a-board) |
 | [0542-01-matrix](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0542-01-matrix) |
@@ -72,4 +73,8 @@
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0203-remove-linked-list-elements) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->

@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0039-combination-sum) |
+| [0139-word-break](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0139-word-break) |
 | [0200-number-of-islands](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0419-battleships-in-a-board) |
 | [0542-01-matrix](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0542-01-matrix) |
@@ -47,6 +48,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0139-word-break) |
 | [0560-subarray-sum-equals-k](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [2364-count-number-of-bad-pairs](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/2364-count-number-of-bad-pairs) |
 ## Math
@@ -60,6 +62,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0139-word-break) |
 | [0542-01-matrix](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0542-01-matrix) |
 ## Prefix Sum
 |  |
@@ -77,4 +80,16 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0039-combination-sum) |
+## String
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0139-word-break) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->

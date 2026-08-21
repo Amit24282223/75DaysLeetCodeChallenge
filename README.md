@@ -49,6 +49,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0139-word-break](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0139-word-break) |
 | [0560-subarray-sum-equals-k](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [2364-count-number-of-bad-pairs](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/2364-count-number-of-bad-pairs) |
@@ -85,6 +86,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0139-word-break](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0139-word-break) |
 ## Trie
 |  |
@@ -97,5 +99,6 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->

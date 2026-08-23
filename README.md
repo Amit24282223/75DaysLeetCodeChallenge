@@ -30,6 +30,7 @@
 | [0542-01-matrix](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0994-rotting-oranges](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
+| [1004-max-consecutive-ones-iii](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/1020-number-of-enclaves) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2364-count-number-of-bad-pairs](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/2364-count-number-of-bad-pairs) |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Linked List
 |  |
@@ -100,5 +102,10 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->

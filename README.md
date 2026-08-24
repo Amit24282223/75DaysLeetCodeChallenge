@@ -76,6 +76,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0086-partition-list) |
 | [0203-remove-linked-list-elements](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
 |  |
@@ -108,4 +109,8 @@
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
+## Two Pointers
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->

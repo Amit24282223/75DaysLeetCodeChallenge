@@ -25,6 +25,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0039-combination-sum) |
 | [0139-word-break](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0139-word-break) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0419-battleships-in-a-board) |
 | [0542-01-matrix](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0542-01-matrix) |
@@ -110,12 +111,14 @@
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1004-max-consecutive-ones-iii](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Stack
 |  |
 | ------- |

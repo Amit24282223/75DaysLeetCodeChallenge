@@ -77,10 +77,12 @@
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0086-partition-list) |
+| [0143-reorder-list](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0203-remove-linked-list-elements) |
 ## Backtracking
 |  |
@@ -113,4 +115,9 @@
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0086-partition-list) |
+| [0143-reorder-list](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->

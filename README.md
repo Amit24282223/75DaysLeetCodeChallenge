@@ -79,6 +79,7 @@
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0086-partition-list) |
+| [0092-reverse-linked-list-ii](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0092-reverse-linked-list-ii) |
 | [0143-reorder-list](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0203-remove-linked-list-elements) |
 ## Recursion

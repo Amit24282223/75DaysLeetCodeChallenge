@@ -62,6 +62,7 @@
 |  |
 | ------- |
 | [2364-count-number-of-bad-pairs](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/2364-count-number-of-bad-pairs) |
+| [3870-count-commas-in-range](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/3870-count-commas-in-range) |
 ## Counting
 |  |
 | ------- |

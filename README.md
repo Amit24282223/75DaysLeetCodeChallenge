@@ -100,6 +100,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0139-word-break](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0139-word-break) |
+| [0443-string-compression](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0443-string-compression) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Trie
 |  |
@@ -129,6 +130,7 @@
 | [0086-partition-list](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0443-string-compression](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0443-string-compression) |
 ## Stack
 |  |
 | ------- |

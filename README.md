@@ -26,6 +26,7 @@
 | [0015-3sum](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0016-3sum-closest) |
 | [0039-combination-sum](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0039-combination-sum) |
+| [0049-group-anagrams](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
@@ -55,6 +56,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0139-word-break) |
 | [0560-subarray-sum-equals-k](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -102,6 +104,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0139-word-break) |
 | [0443-string-compression](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0443-string-compression) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -159,6 +162,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 ## Enumeration
 |  |
 | ------- |

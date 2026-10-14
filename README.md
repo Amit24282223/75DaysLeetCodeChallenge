@@ -66,6 +66,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2364-count-number-of-bad-pairs](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/2364-count-number-of-bad-pairs) |
 | [3870-count-commas-in-range](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/3870-count-commas-in-range) |
 ## Counting
@@ -170,4 +171,8 @@
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/3483-unique-3-digit-even-numbers) |
+## Simulation
+|  |
+| ------- |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 <!---LeetCode Topics End-->

@@ -27,6 +27,7 @@
 | [0016-3sum-closest](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0016-3sum-closest) |
 | [0039-combination-sum](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
 | [0139-word-break](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
@@ -47,6 +48,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0419-battleships-in-a-board) |
 | [0542-01-matrix](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0542-01-matrix) |
@@ -174,5 +176,6 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 <!---LeetCode Topics End-->
